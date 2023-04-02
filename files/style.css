@@ -1,3 +1,22 @@
-.image {
+.card-img-top {
     height: 200px;
+}
+
+.col-lg-3 {
+    background-color: rgba(63, 63, 63, 0.384);
+    padding: 10px;
+}
+
+.name_cp {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.name_country {
+    color: aliceblue;
+}
+
+.population {
+    color: rgba(0, 0, 0, 0.733);
+    font-size: 20px;
 }
